@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi there!
+
+I'm new to coding and I like the colour green.
